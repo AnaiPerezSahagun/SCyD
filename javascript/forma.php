@@ -19,3 +19,4 @@
                     'form'=>array('id'=>'modifica', 'action'=>'modificar.php', 'method'=>'POST'),
                     'prefid'=>'x');
  HTML::forma($liga, 'Modificar usuario', $campos, $atributos);
+//asdadasfas
